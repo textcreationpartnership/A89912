@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another parcell of problemes concerning religion: necessary to be determined at this time, and to that end printed apart. Together with the prudent advice of Herennius Pontius a man famous for wisdome among the Samnites, very applyable to the present deliberation in Parliament concerning delinquents. As also the bold and stout answers of an ambassadour of Privernum, in the senate of Rome, when the Privernates were in the same low condition, in which the Kings party now is. All for the present use of the Members of both Houses. / By P.D.</title>
+            <author>Nethersole, Francis, Sir, 1587-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89912</idno>
+            <idno type="STC">Wing N494</idno>
+            <idno type="STC">Thomason E526_24</idno>
+            <idno type="STC">ESTC R203005</idno>
+            <idno type="EEBO-CITATION">99863113</idno>
+            <idno type="PROQUEST">99863113</idno>
+            <idno type="VID">115295</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115295)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 82:E526[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another parcell of problemes concerning religion: necessary to be determined at this time, and to that end printed apart. Together with the prudent advice of Herennius Pontius a man famous for wisdome among the Samnites, very applyable to the present deliberation in Parliament concerning delinquents. As also the bold and stout answers of an ambassadour of Privernum, in the senate of Rome, when the Privernates were in the same low condition, in which the Kings party now is. All for the present use of the Members of both Houses. / By P.D.</title>
+                  <author>Nethersole, Francis, Sir, 1587-1659.</author>
+                  <author>Livy.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in season,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>In the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P.D. = Sir Francis Nethersole.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>P. 6-8 contain excerpts from an English translation of books 8 and 9 of: Livy.  Ab urbe condita.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115295:1" rendition="simple:additions"/>
+            <p>Another Parcell of PROBLEMES <hi>Concerning</hi> RELIGION: Neceſſary to be determined at this time, And to that end Printed apart.</p>
+            <p>
+               <hi>Together with</hi> The prudent Advice of <hi>Herennius Pontius</hi> A man famous for wiſdome among the <hi>Samnites,</hi> Very applyable to the preſent Deliberation in PARLIAMENT concerning <hi>Delinquents.</hi>
+            </p>
+            <p>As alſo The bold and ſtout Anſwers of an Ambaſſadour of <hi>Privernum,</hi> in the Senate of <hi>Rome,</hi> when the <hi>Priver<g ref="char:EOLhyphen"/>nates</hi> were in the ſame low condition, in which the KINGS party now is.</p>
+            <p>All for the preſent uſe of the Members of both Houſes.</p>
+            <p>By <hi>P. D.</hi>
+            </p>
+            <q>
+               <p>Defendend a Religio eſt à privatis omnibus non occidendo ſed moriendo non ſaevitiâ, ſed patientiâ: non ſcelere, ſed fide.</p>
+               <bibl>
+                  <hi>Lactan.</hi>
+               </bibl>
+               <p>—fortunam reverenter habe.</p>
+            </q>
+            <p>Printed in ſeaſon. In the yeare 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:115295:2"/>
+            <head>Another Parcell of PROBLEMES Concerning. RELIGION.</head>
+            <p>WHether it be lawfull for Chriſtian ſubjects to take up Armes againſt their Soveraign <hi>for reformation of the re<g ref="char:EOLhyphen"/>ligion by law eſtabliſhed,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> or in <hi>defence of their Religion not eſtabliſh<g ref="char:EOLhyphen"/>ed by law, or of their lives, or livelyhoods in danger by due executi<g ref="char:EOLhyphen"/>on of law,</hi> our bleſſed Saviour having expreſſly forbiden them to ſave their lives <hi>by ſuch meanes,</hi> with the addition of a moſt <hi>peremp<g ref="char:EOLhyphen"/>tory threatning</hi> if they do, and of moſt <hi>gracious promiſes,</hi> if they patiently lo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e their lives, or livelyhoods, for his ſake. And whether the <hi>truth or falſehood of their Religion</hi> or the <hi>power, or number of them that attempt</hi> any of the things aforeſaid doth make any difference in the caſe, though they be the Major part of the true, or repreſentative Body of a Kingdome: Or whether all theſe be not <hi>Anti-Chriſtian</hi> proceedings directly contrary to the Doctrine &amp; practice of Chriſt, and of all his holy Apoſtles, and of the whole Church of God for many ages, and particularly of the Church of <hi>England</hi> ſince the Reformation.</p>
+            <p>Whether the <hi>defence of the Religion by law eſtabliſhed,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> be not more properly <hi>a defence of the law,</hi> then of the Religion: And whether it be not lawfull for <hi>Subjects of one Religion, or profeſſi<g ref="char:EOLhyphen"/>on</hi> to take up armes in defence of their lives, or livelyhood a<g ref="char:EOLhyphen"/>gainſt the <hi>violence and force</hi> of their fellow-Subjects <hi>of a Contra<g ref="char:EOLhyphen"/>ry Religion, or profeſſion</hi> though eſtabliſhed by Law, and though they pretend to have, or have authority from their Soveraigne to maſſacre, or plunder them for that cauſe, unleſſe their ſaid fellow-ſubjects firſt bring, or endeavour to bring them to a due Legal tryall: And whether the <hi>truth or falſehood</hi> of their Religi<g ref="char:EOLhyphen"/>on, or the <hi>number</hi> of the thus oppreſſed doth make any ſuch dif<g ref="char:EOLhyphen"/>ference in the caſe in point of juſtice, that one man of what Reli<g ref="char:EOLhyphen"/>gion
+<pb n="3" facs="tcp:115295:2"/>ſoever hath not as much right to defend himſelf againſt vi<g ref="char:EOLhyphen"/>olence as another, or as a multitude, or that a multitude of what Religion, or number ſoever ought not to forbeare ſuch defence of their perſons or eſtates as wel as any one ſingle man of the ſame Religion or profeſſion if proceeded againſt one by one in a due Legal courſe: And whether in ſome occaſio<g ref="char:cmbAbbrStroke">̄</g>s where <hi>ſummary pro<g ref="char:EOLhyphen"/>ceedings</hi> againſt many at once are uſed, and allowed in other matters, the ſame ought not to be ſubmitted unto in this alſo for conſcience ſake, provided that the proceedings be ſuch as may make it appear that they <hi>ſuffer as Martyrs, or Confeſſors</hi> for Chriſts ſake: And whether there be any danger that the gates of hell ſhould prevaile againſt the Church of Chriſt if all true Chriſti<g ref="char:EOLhyphen"/>ans ſhould ſuffer themſelves thus to be killed like ſheep, or whe<g ref="char:EOLhyphen"/>ther it have not ever been moſt enlarged at thoſe times when Chriſtians were moſt willing to yeeld to be ſo robbed or killed.</p>
+            <p>Whether upon the attentive reading of the reſpective De<g ref="char:EOLhyphen"/>clarations,<milestone type="tcpmilestone" unit="unspecified" n="III"/> of his Majeſty and of his two Houſes of Parliament, whereby they reſpectively gave the people of this Kingdome, and the whole world an account of the reaſons, of their having taken up Armes, whereof that of his Majeſty beareth date the 12. of <hi>Auguſt.</hi> 1642. and that of the Parliament was ſet forth in the beginning of the ſame moneth: it will not be evident to every intelligent man, capable to judge of affairs of this nature, that the preſent unhappy warre <hi>is not, or at leaſt at the beginning thereof was not a war of Religion,</hi> otherwiſe then as Religion may be much concerned by conſequent in the iſſue thereof. And whether this will not be yet more evident by comparing the concluſion of his Majeſties ſaid Declaration of the 12. of <hi>Auguſt</hi> from the Paragraph beginning in theſe words, <hi>[Our caſe is truely ſtated, &amp;c.]</hi> to the end thereof, with the Preface, of the Ordinance of the Lords and Commons, for a weekly Aſ<g ref="char:EOLhyphen"/>ſeſment throughout the whole Kingdome, for the maintenance of the Army raiſed by the Parliament, 4. <hi>Martii.</hi> 1642. which beginneth in theſe words, [The Lords and Commons now aſſembled in Parliament, being fully ſatisfied and reſolved in their conſciences, that they have lawfully taken up Armes,
+<pb n="4" facs="tcp:115295:3"/>and may, and ought to continue the ſame for the <hi>neceſſary de<g ref="char:EOLhyphen"/>fence of themſelves, and the Parliament</hi> from violence and deſtru<g ref="char:EOLhyphen"/>ction, <hi>and of this Kingdome</hi> from forreigne invaſion, <hi>and for the bringing of notorious offenders to condigne puniſhment,</hi> which are <hi>the only cauſes</hi> for which they have raiſed, and do continue an Army and forces, which cannot poſſibly be maintained, nor the Kingdome ſubſiſt without the ſpeedy raiſing of large and conſiderable ſummes of money, proportionable to the great ex<g ref="char:EOLhyphen"/>pences, which now this Kingdome is at, for the ſupporting of the ſaid Army, and for the ſaving of the whole Kingdome, our Religion, Lawes, and Liberties, from utter ruine and deſtru<g ref="char:EOLhyphen"/>ction.] in which words the Lords and Commons, (it may be) occaſioned by many indiſcreet defences of their proceedings made by well-meaning, but unskilfull men, have with great prudence diſtinguiſhed the <hi>justifying cauſes</hi> of their having rai<g ref="char:EOLhyphen"/>ſed, and continuing an Army, and forces from <hi>the things which might by conſequent have come into danger,</hi> if they had not raiſed an Army, and forces to defend them, among which Religion is one. And this the Penner of his Majeſties ſaid Declaration, had done as carefully from the beginning, in theſe words, [Our quarrell is not againſt the Parliament, but againſt particu<g ref="char:EOLhyphen"/>lar men, &amp;c.]</p>
+            <p>Whether the conſideration of the <hi>accidentall,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> 
+               <hi>and conſequen<g ref="char:EOLhyphen"/>tiall intereſt of God himſelfe</hi> in the iſſue of a matter in debate, between two parties that are in warre ought to <hi>ingage ſouldiers, or contributers,</hi> to take part with the one or with the other, <hi>more then Jurors in a like caſe,</hi> the reaſon to the contrary being <hi>the ſame in both,</hi> to wit, becauſe God hath no need of mans ſinne in either to maintaine his cauſe, or glory, and it being a mani<g ref="char:EOLhyphen"/>feſt ſinne in a Juror to have any reſpect thereunto, how conſi<g ref="char:EOLhyphen"/>derable ſoever ſuch intereſt of God may be, as will be clear to the meaneſt capacity, by putting the caſe between an Atheiſti<g ref="char:EOLhyphen"/>call Church-Papiſt, and a godly zealous Proteſtant, or Puri<g ref="char:EOLhyphen"/>tane touching the <hi>perpetuall advowſon</hi> of a great Rectory, and no leſſe clear in the caſe of a warre between two Princes, ſembla<g ref="char:EOLhyphen"/>bly qualified touching their title to <hi>a Kingdome divided in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Profeſſion of Religion.</hi>
+            </p>
+            <pb n="5" facs="tcp:115295:3"/>
+            <p>Whether a <hi>meerly civill cauſe of clear juſtice,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> in which true <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> is much <hi>intereſſed,</hi> though but <hi>by conſequent,</hi> may not juſt<g ref="char:EOLhyphen"/>ly be called <hi>Gods cauſe,</hi> and ought not to be undertaken more heartily, and maintained more vigorouſly, by all good Chriſti<g ref="char:EOLhyphen"/>ans in that reſpect, eſpecially when the <hi>intereſt of Religion</hi> is the only, or maine <hi>motive to the oppoſition,</hi> made by the adverſe par<g ref="char:EOLhyphen"/>ty, which was the caſe of the great <hi>Henry</hi> the fourth of <hi>France,</hi> who in that regard was commonly prayed for as fighting <hi>the Lords battels,</hi> and is the caſe of the Prince Elector Palatine, and of Prince <hi>Rupert</hi> his brother, who in all appearance might ere this have recovered their ancient eſtates and dignityes (to which by the lawes of the Empire their title is unqueſtionable) by the ſame meanes that the ſaid King did his Crowne, if God by his grace had not made the ſaid great Kings example too fearfull to them.</p>
+            <p>Whether the <hi>entituling of Good</hi> to any <hi>purely civill,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="VI"/> 
+               <hi>and clearly unjuſt cauſe</hi> in reſpect of the <hi>interest of his true Religion</hi> involved <hi>by conſequent only</hi> in the ſucceſſe thereof, be not a ſinne againſt the third Commandement, and of a high nature; and whether any damage which may happen to accrew to Gods true Religi<g ref="char:EOLhyphen"/>on by occaſion of the iſſue <hi>of ſuch a War,</hi> will not be put to his account that was in the <hi>wrong in the point of the juſtice of the war</hi> though he were <hi>in the right in the point of the truth of his Religion,</hi> and whether that will not be a <hi>heavy aggravation</hi> of his ſinne.</p>
+            <p>Whether the parties,<milestone type="tcpmilestone" unit="unspecified" n="VII"/> and others intereſſed in a <hi>purely civill cauſe of dubious juſtice,</hi> wherein Religion is no otherwiſe con<g ref="char:EOLhyphen"/>cerned then as aboveſaid, do well to <hi>engage</hi> themſelves, and to endeavour to engage others therein <hi>under the title or colour of Keligion;</hi> or whether it be not a great ſinne to do this witting<g ref="char:EOLhyphen"/>ly and wilfully, eſpecially in them who being <hi>Ambaſſadours</hi> of a King that hath publiquely declared his Kingdome not to be of this world, and that accordingly refuſed to make himſelfe a Judge of Civill inheritances between brethren, wil hardly be able to ſhew that they have any Commiſſion from him to en<g ref="char:EOLhyphen"/>tangle themſelves, and much leſſe to intereſt his name in ſuch af<g ref="char:EOLhyphen"/>faires of this world, and it being well knowne that in the old
+<pb n="4" facs="tcp:115295:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:115295:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:115295:5"/>Law it was death for a Prophet to preſume to ſpeake a word in his name that he had not commanded, <hi>Deut.</hi> 18.20.</p>
+            <p>Whether all they who by <hi>a miſtake of the quarrell do</hi> any way engage themſelves,<milestone type="tcpmilestone" unit="unspecified" n="VIII"/> or others <hi>in a juſt War upon unjuſtyfiable grounds</hi> be not mur<g ref="char:EOLhyphen"/>therers before God, though not before men, as a man may commit a<g ref="char:EOLhyphen"/>dultery with his own wife if in the dark he chance to take her for ano<g ref="char:EOLhyphen"/>ther mans: And as a Juror may doe unjuſtly in giving a juſt verdict, if he do it upon unjuſt grounds through a miſtake of the evidence, or through ignorance of the Law.</p>
+            <p>Whether all they,<milestone type="tcpmilestone" unit="unspecified" n="IX"/> who though they <hi>underſtand the right of the quarrel in a juſt Warre,</hi> yet <hi>engage</hi> themſelves or others therein <hi>upon unjuſtyfiable motives,</hi> as for private revenge, or gaine, or with minds any otherwiſe diſpoſed then purely to procure a yeelding to the juſtice thereof, be not alſo guilty of all the bloodſhed therein: as a Iuror may be a murderer in conſenting to the taking away of his neighbours life, <hi>by a juſt verdict</hi> how clear ſoever the law, or evidence be to him, if he be enduced thereunto <hi>by his owne private ſpleen,</hi> or by the <hi>bribery, or ſollicitation of ſome other</hi> re<g ref="char:EOLhyphen"/>vengefull third perſon, or by any other <hi>by reſpect,</hi> and not meerly by the <hi>merits of the cauſe.</hi>
+            </p>
+            <div type="part">
+               <head>Tit. Liv. Hiſt. Lib. <hi>9.</hi>
+               </head>
+               <p>WHen <hi>T. Veturius,</hi> and <hi>Sp. Poſthumius,</hi> Conſuls of <hi>Rome,</hi> had en<g ref="char:EOLhyphen"/>gaged their Army too farre within the Gullet, or Streight of <hi>Caudium,</hi> into a place of ſo great diſadvantage, that it was impoſſible for them either to get out of the pound wherein they were entrapped by their enemies the Samnites, or to fight them, or to have any relief come to their ſuccour, though they ſhould fortifie their campe with a trench and ram<g ref="char:EOLhyphen"/>pier, it is eaſie for every man to imagine in what diſtreſſe, they and their Officers and Souldiers were. The Samnites on the other ſide, in this ſo fortunate and happy opportunity preſented unto them, were as much to ſeek what to do, and what courſe to chuſe and follow. Wherupon they all in generall were to diſpatch letters to <hi>Herennius Pontius,</hi> the father of their General, and to know his opinion. Now this man before time by reaſon of his great age had given over not only military affairs, but alſo all civil bu<g ref="char:EOLhyphen"/>ſineſſes: how be it in that old craſie and ſpent body of his, he bare the freſh vigouroſ the mind, &amp; a pregnant wit to give counſel. When he underſtood that the Romans Army was ſhut up faſt within the two forreſts, at the
+<pb n="7" facs="tcp:115295:5"/>Caudine Gullets, and that his advice was asked by his ſonnes meſſen<g ref="char:EOLhyphen"/>ger, he gave preſently this counſell, <q>That with all ſpeed they ſhould be let go from thence every one, without any harm at all done unto them. Which opinion of his being rejected, [of his ſonne and the Army] his mind was demanded a ſecond time, by the ſame Courtier ſent againe unto him of purpoſe. And then he gave advice that they ſhould be all killed, and not one left alive.</q> Upon which anſwers ſo far diſagreeing, and thus delivered, as it were out of a doubtfull Oracle: albeit his ſonne himſelfe imagined, of all others moſt, that his fathers wit was in the wane, and aged, as well as his feeble waſted body: yet by a general conſent of all he was overcome, to ſend for him in Perſon for to declare his meaning by word of mouth. Neither thought the old man much thereof, but was brought (by report) to the campe in a chariot, and being called to counſel, he was in the ſame tale ſtil, ſo as he nothing chan<g ref="char:EOLhyphen"/>ged of his former adviſe, but alledged only cauſes and reaſons thereof. <q>Namely, that in his former reſolution, (which he took to be ſimply the beſt) his meaning was, by a ſingular benefit and good turne, to confirm peace and amity for ever, with a moſt mighty and puiſſant people. In the ſecond, his purpoſe was by the utter loſſe of two Armies, whereby the State of <hi>Rome</hi> would not eaſily recover their ſtrength again, to differ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the warres for many a yeare.</q> And as for a third counſell he had none at all. When his Son and other chiefe Captains, by queſtioning inquired of him, <q>what if a middle courſe between both were taken, namely to diſmiſſe them ſafe, and acording to the law of Armes and Conqueſt, to impoſe upon them hard lawes and conditions. Marry (quoth he) this is the way indeed, that neither winneth you friends, nor yet rid<g ref="char:EOLhyphen"/>deth you of your foes, ſave them whom you have provoked with ſhame and diſgrace, and ſee what you get thereby. The Romanes are of this nature, that they cannot be ſtil and quiet ſo long as they have the worſe; it will never die in their hearts, but will be always freſh, what<g ref="char:EOLhyphen"/>ſoever ſhame this preſent extremity ſhall brand them with: and never will it give them any reſt, before they have been by manifold and ſun<g ref="char:EOLhyphen"/>dry wayes revenged of you.</q> So his adviſe was not accepted, neither the one nor the other, and old <hi>Herennius</hi> was carried home againe from the Camp. The Samnites would yield to no other terms of agree<g ref="char:EOLhyphen"/>ment, but to have the whole Roman Army paſſe ſhamefully under the Gallows: which they by the advice of <hi>L. Lentulus,</hi> (who told them that they ought to preſerve their Country with ſuffering utter ſhame, as well as by ſpending their lives,) were contented to endure, and did. But not long af<g ref="char:EOLhyphen"/>ter, <hi>Papirius</hi> ſurnamed <hi>Curſor</hi> defeated the Samnites, and put them like<g ref="char:EOLhyphen"/>wiſe to paſſe under the Gallows.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:115295:6"/>
+               <head>Idem Lib. <hi>8.</hi>
+               </head>
+               <p>When the Privernates rebelling, were utterly vanquiſhed by the Romans, whiles ſome of them in the Senate of <hi>Rome</hi> gave adviſe to pro<g ref="char:EOLhyphen"/>ceed cruelly, others to deale gently, according to each man his nature and inclination: there was an Ambaſſadour of <hi>Privernum</hi> that put all out of ſquares; a man mindful of that ſtate wherein he was born, more then of his preſent need and extremity. Who being demanded of one (that had ſpoken to the point, delivered ſome ſharp cenſure &amp; heavy ſentence againſt them) What puniſhment he judged the Privernaces deſerved? <q>Marry (quoth he) that which they deſerve, who deem themſelves wor<g ref="char:EOLhyphen"/>thy of liberty and freedom.</q> At whoſe ſtout and arrogant anſwer, when the Conſull ſaw thoſe to be more eagerly and bitterly bent, who before impugned the cauſe of the Privernates: to the end that he himſelfe by ſome mild and gentle demand, might draw from the party more modeſt language; What (quoth he) if we ſhould remit and pardon your puniſh<g ref="char:EOLhyphen"/>ment: what kind of peace might we hope to have at your hands? <q>If (quoth he) ye offer us a good peace, ye ſhal find it on our part loyal &amp; perpetuall: but if ye tender hard conditions of peace, ye ſhall have it laſt but a ſmal while.</q> But then one gave out that the Privernat began to threa<g ref="char:EOLhyphen"/>ten plainly, and ſaid moreover, <q>that ſuch ſpeeches were enough to ſtir up any peaceable and quiet people to warre, that never thought to have fought.</q> But the better part of the Senate drew thoſe his anſwers to a bet<g ref="char:EOLhyphen"/>ter ſenſe, and ſaid <q>that it was the ſpeech of a man, and of a man free borne. For was it credible (quoth they) that any ſtate, nay any particular per<g ref="char:EOLhyphen"/>ſon, would longer abide (then needs he muſt,) that condition which he miſliketh and goeth againſt his ſtomack? There only is peace ſure and like to hold, where men are contented and willing to keep themſelves in peace: and never let men look or hope to find faithfull loyaltie, where they wil impoſe thraldom and ſervitude.</q> And to this purpoſe the Conſull himſelf eſpecially moved and inclined their hearts, reiterating theſe words to the Senators that were firſt to give their opinions, &amp; that ſo loud, as he might of many more be overheard, that they above al other, and none but they indeed were worthy to be made Roman Citizens, who minded and eſteemed nothing in the world but their freedome. Where<g ref="char:EOLhyphen"/>upon both in the Senate they obtained the ſuit: and alſo by their authori<g ref="char:EOLhyphen"/>ty of LL: a Bill was exhibited to the people, that the Privernates might be infranchiſed Romans.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
